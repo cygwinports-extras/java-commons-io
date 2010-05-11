@@ -1,0 +1,5 @@
+category: Java
+requires: 
+sdesc: "Java Commons I/O library"
+ldesc: "Commons IO is a library of utilities to assist with developing 
+IO functionality for Java."
